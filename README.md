@@ -1,4 +1,5 @@
 Amazon Prime Video Subtitle Downloader (APVSD)
+
 Download every subtitle track from any Amazon Prime Video title — movies and full seasons — as a single ZIP, with SRT, TTML and VTT output, live progress, and SDH / CC / Forced detection.
 
 ✨ Features
