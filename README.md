@@ -20,6 +20,7 @@ Download every subtitle track from any Amazon Prime Video title — movies and f
 
 ✨ Features
 
+
 • One-click ZIP download of every subtitle track on the current title
 
 • Multi-format export: SRT, TTML and VTT bundled together
@@ -88,9 +89,12 @@ Whole season:
 
 • Panel is empty — press play on the title for a few seconds, then reopen the panel. Prime only serves subtitle manifests after playback initialises.
 
+
 • Season ZIP only has one episode — make sure Start season capture is enabled before opening each episode, and wait until you see the Stored: confirmation before switching.
 
+
 • Wrong episode name — refresh the episode page and let playback start; metadata is re-fetched from Prime's detail API on each new playback.
+
 
 • Chrome blocks install — download the .user.js file and drag it into Tampermonkey's Installed userscripts tab.
 
