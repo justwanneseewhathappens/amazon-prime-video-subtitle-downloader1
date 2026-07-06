@@ -34,9 +34,12 @@ Userscript managers
 
 • Tampermonkey ✅ recommended
 
+
 • Violentmonkey ✅
 
+
 • Greasemonkey 4+ ✅
+
 
 • Userscripts (Safari) ✅
 
