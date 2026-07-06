@@ -20,9 +20,13 @@ Download every subtitle track from any Amazon Prime Video title — movies and f
 
 ✨ Features
 • One-click ZIP download of every subtitle track on the current title
+
 • Multi-format export: SRT, TTML and VTT bundled together
+
 • Full season capture — toggle Start season capture and every episode you open is auto-added to a single season ZIP
+
 • Smart labelling — SDH, CC and Forced tracks are detected and tagged in filenames
+
 • Live progress panel with per-track status and error reporting
 
 🌐 Compatibility
